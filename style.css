@@ -1,0 +1,23 @@
+body{
+    background-color: #415a77;
+    color: #e0e1dd;
+    font-family: 'montserrat', sans-serif;
+}
+p {
+    
+}
+h1{
+    text-align: center;
+    background-color: #0d1b2a;
+    padding: 15px;
+    border-radius: 10px;
+}
+.link {
+    color: #e0e1dd;
+}
+img {
+    border-radius: 100%;
+}
+h3 {
+    font-size: 30px;
+}
